@@ -2,5 +2,4 @@
 ## Integrantes
 
 - Alumno A
-
-test directo
+- Alumno B
